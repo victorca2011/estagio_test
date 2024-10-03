@@ -13,7 +13,7 @@ O teste reúne uma série de perguntas técnicas para um processo seletivo.
 
 ## Como Executar o Projeto
 
-Para executar o projeto localmente, siga os passos abaixo:
-## (bash ou poweshell)
-git clone https://github.com/victorca2011/estagio_test.git
+Para executar o projeto localmente, siga os passos abaixo:<br>
+(bash ou poweshell)<br><br>
+git clone https://github.com/victorca2011/estagio_test.git<br>
 cd estagio_test
